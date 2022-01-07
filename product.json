@@ -1,0 +1,88 @@
+{
+  "product": [
+    {
+      "kategori": "Razer",
+      "nama": "Razer Kraken Green Headset",
+      "deskripsi": "The Razer Kraken is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "1100000",
+      "gambar": "headset.jpg"
+    },
+    {
+      "kategori": "Razer",
+      "nama": "Razer Kraken White Headset",
+      "deskripsi": "The Razer Kraken White Edition is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "1200000",
+      "gambar": "headset1.jpg"
+    },
+    {
+      "kategori": "Razer",
+      "nama": "Razer Nari Ultimate Headset",
+      "deskripsi": "The Razer Nari Ultimate Special Edition is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "2100000",
+      "gambar": "headset2.jpg"
+    },
+    {
+      "kategori": "Razer",
+      "nama": "Razer Nari Headset",
+      "deskripsi": "The Razer Nari is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "1560000",
+      "gambar": "headset3.jpg"
+    },
+    {
+      "kategori": "Logitech",
+      "nama": "Logitech Gaming Wireless G77",
+      "deskripsi": "The Logitech Gaming Wireless G77 is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "2000000",
+      "gambar": "headset4.jpg"
+    },
+    {
+      "kategori": "Logitech",
+      "nama": "Logitech Gaming G335 USB",
+      "deskripsi": "The Logitech Gaming G335 USB is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "769000",
+      "gambar": "headset5.jpg"
+    },
+    {
+      "kategori": "Logitech",
+      "nama": "Logitech Gaming Headset G635 7.1 USB",
+      "deskripsi": "The Logitech Gaming Headset G635 7.1 USB is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "2500000",
+      "gambar": "headset6.jpg"
+    },
+    {
+      "kategori": "Logitech",
+      "nama": "Logitech G933 Artemis Spectrum Wireless 7.1 Gaming Headset",
+      "deskripsi": "The Logitech G933 Artemis Spectrum Wireless 7.1 Gaming Headset is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "7000000",
+      "gambar": "headset7.jpg"
+    },
+    {
+      "kategori": "Fantech",
+      "nama": "Fantech Gaming OMNI MH83",
+      "deskripsi": "The Fantech Gaming OMNI MH83 is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "380000",
+      "gambar": "headset8.png"
+    },
+    {
+      "kategori": "Fantech",
+      "nama": "Fantech Gaming CAPTAIN 7.1 HG11",
+      "deskripsi": "The Fantech Gaming CAPTAIN 7.1 HG11 is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "250000",
+      "gambar": "headset9.png"
+    },
+    {
+      "kategori": "Fantech",
+      "nama": "Fantech Gaming ECHO MH82",
+      "deskripsi": "The Fantech Gaming ECHO MH82 is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "380000",
+      "gambar": "headset10.png"
+    },
+    {
+      "kategori": "Fantech",
+      "nama": "Fantech Gaming VALOR MH86 RGB",
+      "deskripsi": "The Fantech Gaming VALOR MH86 RGB is compatible with PC, Mac, Xbox One, PS4, Nintendo Switch and mobile devices with a 3.5mm audio jack.",
+      "harga": "350000",
+      "gambar": "headset11.png"
+    }
+  ]
+}
